@@ -39,10 +39,11 @@ Used:
 ---
 
 ## 📊 Sample Insights
--  USA had the highest number of layoffs, followed by India and Canada.
--  Companies like Google, Meta, and Amazon were among the top affected.
--  Layoffs peaked during [insert period, e.g., Q1 2023].
--  Startups in **Series B/C funding** faced more aggressive downsizing.
+-  USA had the highest number of layoffs, followed by India and Netherlands.
+-  Companies like Uber, Booking.com, & Airbnb were among the top affected.
+-  Layoffs peaked during [insert period, e.g., Q1 2022].
+-  Post-IPO companies were the most impacted in terms of total layoffs.
+
 
 Thanks for checking out my project! 😊
 
